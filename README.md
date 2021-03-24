@@ -1,3 +1,2 @@
 # Covid-19
-This project is for knowing realtime covid cases.I have used data visualization in this project.This is GUI which gives information about covid cases in graphical format.
-I have used packages and modules in it.To fetch live data of covid I have used covid package which gives real time cases ,Also for GUI i have used tkinter package and For data visualization  I have used matplotlib module/librery....
+This project is for knowing realtime covid cases Country wise.I have used data visualization in this project.This is GUI which gives information about covid cases in graphical format.I have used packages and modules in it.To fetch live data of covid I have used covid package which gives real time cases country wise ,Also for GUI i have used tkinter package and For data visualization  I have used matplotlib module..
