@@ -49,16 +49,17 @@ def showdata():
                                   f"*Recovered Cases:{values[1]}\n\n"
                                   f"*Active:{values[2]}\n\n"
                                   f"*Death:{values[3]}")  # to add text on matplotlib
-            notifyme("GOVIND", "1.Stay Home Stay Safe ! \n"
-                               "2.Always Wear Mask on Face !\n"
-                               "3.Sanitize Your Hands ! \n"
-                               "4.Keep Social Distance !")
+            notifyme("GOVIND", "Stay Home Stay Safe !")
+            notifyme("GOVIND", "Keep Social Distance!")
+            notifyme("GOVIND", "Always Wear Mask !")
+            notifyme("GOVIND","Sanitize Your Hands !")
+
 
             p.show()
 
 
         except:
-            t.showinfo("info", "no such country data avaiable")
+            t.showinfo("info", "Wrong Country Name")
 
 
 
@@ -81,3 +82,12 @@ m=Button(root,bg="yellow",text="Show",padx=20,pady=5,font=("comicsansns",10,"bol
 m.pack()
 
 root.mainloop()
+
+
+
+
+
+
+
+
+
