@@ -9,13 +9,8 @@ root=Tk()
 
 root.geometry("800x500")
 
-root.title("covid-19->Project by :Omkar Lokhande and Viraj Raut ")
-def notifyme(title,message):
-    notification.notify(
-        message=message,
-        timeout=25,
-        app_icon="D:\PROGRAMMING LANGUAGES\PYTHON\PYTHAN BASIC AND ADVANCE\Python harry tutorial\covid cases\icon.ico"
-    )
+root.title("covid-19->Project by :Omkar Lokhande and Viraj Raut")
+
 
 def showdata():
 
