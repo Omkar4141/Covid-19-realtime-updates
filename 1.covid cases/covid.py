@@ -1,6 +1,5 @@
 from tkinter import *
 import tkinter.messagebox as t
-from plyer import notification
 from  covid import  Covid
 import matplotlib.pyplot as p
 import time
@@ -50,7 +49,7 @@ def showdata():
 
 
     p.show()
-    notifyme("omkar","Stay Home Stay Safe ")
+    
 
 
 
