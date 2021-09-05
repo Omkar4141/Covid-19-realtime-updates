@@ -36,4 +36,14 @@ This is also very important librery to show notification.this librery has notifi
 
 <img src="https://github.com/Omkar4141/Covid-19-realtime-updates/blob/main/3.png">
 
+# 4)when we enter country name it show result and notifications
+
+<img src="https://github.com/Omkar4141/Covid-19-realtime-updates/blob/main/4.png">
+
+<img src="https://github.com/Omkar4141/Covid-19-realtime-updates/blob/main/5.png">
+
+<img src="https://github.com/Omkar4141/Covid-19-realtime-updates/blob/main/6.png">
+
+
+
 
