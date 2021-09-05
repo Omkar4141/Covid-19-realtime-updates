@@ -1,2 +1,8 @@
-# Covid-19
-This project is for knowing realtime covid cases Country wise.I have used data visualization in this project.This is GUI which gives information about covid cases in graphical format.I have used built in libreries of python  in it.To fetch live data of covid I have used covid module which gives real time cases country wise ,Also for GUI i have used tkinter package and For data visualization  I have used matplotlib librery..
+# Covid-19 realtime updates and notifications 
+This project is based on Data Science.In this Project i have made an application which gives realtime updates of covid-19 cases and notications.In this project, i have used various libreries and modules of python.also i have acessed data from covid module and structured that data.and then i have used Data Visualization to represent it in graphical format.
+
+# Libreries and Modules
+
+# 1)Tkinter :
+
+This python module is used to create GUI using python.I have used this to make frontend of my project.
