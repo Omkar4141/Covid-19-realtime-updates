@@ -5,4 +5,35 @@ This project is based on Data Science.In this Project i have made an application
 
 # 1)Tkinter :
 
-This python module is used to create GUI using python.I have used this to make frontend of my project.
+This python librery is used to create GUI(Graphical user Interface).I have used this to make frontend of my project.
+
+<img src="https://github.com/Omkar4141/Covid-19-realtime-updates/blob/main/1.png">
+
+# 2)Covid :
+
+This module is newly launch by python during covid to get details of covid cases country wise.i have accesed data from this module and structred it.
+
+# 3)matplotlib :
+
+This is data visualization librery used to represent data in graphical format.by using this , i have represented data in form of piechart.
+
+# 4)plyer :
+
+This is also very important librery to show notification.this librery has notification module which help to show notification.
+
+
+# Output
+
+# 1)Application view
+
+<img src="https://github.com/Omkar4141/Covid-19-realtime-updates/blob/main/1.png">
+
+# 2)If user directly click on show button message is displayed.
+
+<img src="https://github.com/Omkar4141/Covid-19-realtime-updates/blob/main/2.png">
+
+# 3)If user enter wrong country name 
+
+<img src="https://github.com/Omkar4141/Covid-19-realtime-updates/blob/main/3.png">
+
+
